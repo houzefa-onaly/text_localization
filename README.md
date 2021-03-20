@@ -3,6 +3,8 @@
 This is an implementation of the following patent :
 [Click here to read the patent](https://patents.google.com/patent/WO2004013802A3/en)
 
+Main execution code is in the file 'BE2_text.m'
+
 ### Examples of results :
 
 Before | After
