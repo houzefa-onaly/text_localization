@@ -5,6 +5,8 @@ This is an implementation of the following patent :
 
 Main execution code is in the file 'BE2_text.m'
 
+### Author of the implementation : Akilhoussen Onaly
+
 ### Examples of results :
 
 Before | After
